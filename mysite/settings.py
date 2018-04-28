@@ -25,7 +25,7 @@ SECRET_KEY = 't^3-0i$m%)#q_i0qx8q3x&je(za7gsf37^r5v_)il=s)s!4y(e'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["cernturkmen.pythonanywhere.com"]
 
 
 # Application definition
